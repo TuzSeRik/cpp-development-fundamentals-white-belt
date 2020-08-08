@@ -1,0 +1,6 @@
+# [Конспет лекций за первую неделю](./1st-week-summary.pdf)
+![image](./../assets/012.jpg)
+![image](./../assets/013.jpg)
+![image](./../assets/014.jpg)
+![image](./../assets/015.jpg)
+![image](./../assets/016.jpg)
